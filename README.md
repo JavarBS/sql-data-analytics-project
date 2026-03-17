@@ -1,6 +1,6 @@
 # 🗄️ SQL Data Analytics Project
 
-A end-to-end SQL analytics project built on PostgreSQL, featuring a layered data warehouse architecture (Bronze → Silver → Gold) with customer and product reporting views.
+A end-to-end SQL analytics project built on PostgreSQL, featuring a layered data warehouse architecture with customer and product reporting views.
 
 ---
 
